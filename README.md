@@ -10,17 +10,16 @@ I'm a full-stack developer passionate about building scalable systems and AI-pow
 - 🔭 Currently working on: AI-powered applications with RAG pipelines and distributed systems
 - 🌱 Learning: Machine Learning, Deep Learning (PyTorch), and MLOps practices
 - 🤖 Interested in: End-to-end ML workflows, LLM applications, and production ML systems
-- 📍 Location: Vancouver, BC (willing to relocate)
 - 💼 Open to: Full-Stack, Backend, Frontend and AI/ML Engineering roles
 
 ## 🛠️ Tech Stack
 
-**Languages**: Java, Python, JavaScript, TypeScript, Go, C, SQL, HTML, CSS
-**Backend:** Spring Boot • FastAPI • Node.js • Express.js • RESTful APIs • Django • Microservices
-**Frontend:** React • Next.js • Tailwind CSS  
-**Databases:** PostgreSQL • Redis • MongoDB • Vector Databases  
-**AI/ML:** RAG • LangChain • Vector Embeddings • OpenAI API • PyTorch • TensorFlow • scikit-learn
-**Cloud & DevOps:** AWS (EC2, RDS, S3, SQS, Lambda) • Docker • Git • Kubernetes
+- **Languages**: Java, Python, JavaScript, TypeScript, Go, C, SQL, HTML, CSS
+- **Backend:** Spring Boot • FastAPI • Node.js • Express.js • RESTful APIs • Django • Microservices
+- **Frontend:** React • Next.js • Tailwind CSS  
+- **Databases:** PostgreSQL • Redis • MongoDB • Vector Databases  
+- **AI/ML:** RAG • LangChain • Vector Embeddings • OpenAI API • PyTorch • TensorFlow • scikit-learn
+- **Cloud & DevOps:** AWS (EC2, RDS, S3, SQS, Lambda) • Docker • Git • Kubernetes
 
 ## 💼 Featured Projects
 
