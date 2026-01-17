@@ -5,21 +5,22 @@ Seeking Summer 2026 Software Engineering Internship | Full-Stack • AI/ML • B
 
 ## 🔑 About Me
 
-I'm a full-stack developer passionate about building scalable systems and AI-powered applications. Currently pursuing my Master's in Computer Science with a 4.0 GPA, combining technical expertise with business acumen from my Master's of Business Administration background.
+I'm a full-stack developer passionate about building scalable systems and AI-powered applications. Currently pursuing my Master's in Computer Science with a 4.0 GPA, combining technical expertise with business acumen from my MBA background.
 
-- 🔭 Currently working on: AI-powered applications with RAG pipelines and distributed systems
-- 🌱 Learning: Machine Learning, Deep Learning (PyTorch), and MLOps practices
-- 🤖 Interested in: End-to-end ML workflows, LLM applications, and production ML systems
-- 💼 Open to: Full-Stack, Backend, Frontend and AI/ML Engineering roles
+- 🔭 Currently working on: Full-stack applications with microservices and AI integration
+- 🌱 Learning: Machine Learning (PyTorch), distributed systems, and cloud architecture
+- 🤖 Interested in: Building production-ready AI applications and scalable web systems
+- 💼 Open to: Full-Stack, Backend, frontend and AI/ML Engineering roles
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, Python, JavaScript, TypeScript, Go, C, SQL, HTML, CSS
 - **Backend:** Spring Boot • FastAPI • Node.js • Express.js • RESTful APIs • Django • Microservices
-- **Frontend:** React • Next.js • Tailwind CSS  
+- **Frontend:** React • Next.js • Tailwind CSS •  Material-UI
 - **Databases:** PostgreSQL • Redis • MongoDB • Vector Databases  
 - **AI/ML:** RAG • LangChain • Vector Embeddings • OpenAI API • PyTorch • TensorFlow • scikit-learn
-- **Cloud & DevOps:** AWS (EC2, RDS, S3, SQS, Lambda) • Docker • Git • Kubernetes
+- **Cloud:** AWS (EC2, RDS, S3, SQS, Lambda) • Azure • Google Cloud
+- **DevOps & Testing:**: Docker, Kubernetes, CI/CD (GitHub Actions), JUnit, Jest, Pytest
 
 ## 💼 Featured Projects
 
@@ -36,12 +37,6 @@ Full-stack application, Scalable marketplace with distributed systems patterns
 - **Real-time:** WebSocket implementation achieving <50ms latency for inventory updates
 - **Concurrency:** Optimistic locking handling 1000+ simultaneous checkouts with 99.9% accuracy
 - **Async Processing:** AWS SQS message queue with worker containers and dead-letter queue logic
-
-### 🤖 ML Projects (In Progress)
-Currently building end-to-end ML workflows including:
-- Deep learning models with PyTorch
-- Model deployment pipelines
-- MLOps experimentation and tracking
 
 ## 📫 Let's Connect
 
