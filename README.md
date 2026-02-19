@@ -20,23 +20,31 @@ I'm a full-stack developer passionate about building scalable systems and AI-pow
 - **Databases:** PostgreSQL • Redis • MongoDB • Vector Databases  
 - **AI/ML:** RAG • LangChain • Vector Embeddings • OpenAI API • PyTorch • TensorFlow • scikit-learn
 - **Cloud:** AWS (EC2, RDS, S3, SQS, Lambda) • Azure • Google Cloud
-- **DevOps & Testing:**: Docker, Kubernetes, CI/CD (GitHub Actions), JUnit, Jest, Pytest
+- **DevOps:** Docker • Kubernetes • GitHub Actions CI/CD • Terraform • Nginx • Prometheus
+- **Testing:** JUnit • Jest • Pytest • Integration Testing
 
 ## 💼 Featured Projects
 
+### 🎓 [Academe - Multi-Agent Academic AI Assistant](https://github.com/Klarline/academe)
+Production-grade full-stack AI application with multi-agent orchestration and adaptive learning
+- **AI/ML:** Built 5-agent LangGraph system (Router, Concept Explainer, Code Helper, Research, Practice Generator) with hybrid RAG pipeline using Pinecone vector search and RAGAS evaluation
+- **Backend:** FastAPI + Celery async workers + Redis for background document processing; WebSocket streaming for real-time token responses
+- **Infrastructure:** Deployed on AWS EC2 + Vercel with Terraform IaC, GitHub Actions CI/CD, Docker Compose orchestration, and Prometheus monitoring
+- **Testing:** 217+ unit tests with pytest; automated test pipeline with quality gates before production deployment
+
 ### 🍵 [TeaTime - AI Tea Discovery Platform](https://github.com/Klarline/teatime)
-Full-stack application, Microservices architecture with RAG-powered recommendations
-- **AI/ML:** Built RAG pipeline processing 500+ reviews with vector embeddings for personalized recommendations
-- **Backend:** Spring Boot + FastAPI microservices with Redis distributed locks for atomic operations
-- **Infrastructure:** Deployed on AWS (EC2, RDS, S3) with private VPC networking
-- **Performance:** Achieved sub-3s semantic search response time with real-time social features
+Full-stack microservices application with RAG-powered recommendations deployed on AWS
+- **AI/ML:** Built RAG pipeline processing 500+ tea shop reviews with vector embeddings, delivering semantic search results in <3s response time
+- **Backend:** Spring Boot + FastAPI microservices with Redis distributed locks and Lua scripts, handling concurrent flash-sale requests with 99.9% atomicity
+- **Infrastructure:** Deployed on AWS (EC2, RDS, S3) within private VPC with GitHub Actions CI/CD pipeline; Docker Compose for local development across 4+ services
+- **Performance:** Optimized PostgreSQL queries and Redis caching layer, reducing average API response time by 40%
 
 ### 🛒 [Multi-Tenant E-Commerce Platform](https://github.com/Klarline/retail-inventory-platform)
-Full-stack application, Scalable marketplace with distributed systems patterns
-- **Architecture:** Multi-tenant system supporting 50+ stores with data isolation
-- **Real-time:** WebSocket implementation achieving <50ms latency for inventory updates
-- **Concurrency:** Optimistic locking handling 1000+ simultaneous checkouts with 99.9% accuracy
-- **Async Processing:** AWS SQS message queue with worker containers and dead-letter queue logic
+Full-stack marketplace with distributed systems patterns supporting high-concurrency operations
+- **Architecture:** Built multi-tenant system supporting 50+ stores with schema-level data isolation and role-based access control
+- **Real-time:** Implemented WebSocket inventory updates achieving <50ms latency, enabling live stock synchronization across storefronts
+- **Concurrency:** Applied optimistic locking to handle 1000+ simultaneous checkouts with 99.9% accuracy, eliminating overselling
+- **Async Processing:** Integrated AWS SQS message queue with worker containers and dead-letter queue for reliable order processing
 
 ## 📫 Let's Connect
 
